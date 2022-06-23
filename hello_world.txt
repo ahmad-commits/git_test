@@ -1,2 +1,3 @@
 This is my first git repo!
 This is my second edit to this file. It is said that when Socrates was brought to the court of Athens on charges of "corrupting the youth and introducing new divinites", his defense was one of the most important speeches in western philosophy and thinking. Plato introduced Socrates to the world with fictional dialogues between Socrates and his students. According to Plato, Socrates said this in his defense: "An unexamined life is not worth living". What words!
+This is my third edit to this file: btw, did you know that i'm typing all this on linux! Ha!
